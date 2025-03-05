@@ -13,4 +13,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josep-font-carbonell-15a633349/)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
+-You can see my portfolio : https://josepfontfc.github.io/portafolio/
